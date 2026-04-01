@@ -146,7 +146,7 @@ object Launcher {
         envVars["UPLOAD_URL"] = ""
         envVars["CHAT_ID"] = ""
         envVars["BOT_TOKEN"] = ""
-        envVars["CFIP"] = "spring.io"
+        envVars["CFIP"] = "cdns.doon.eu.org"
         envVars["CFPORT"] = "443"
         envVars["NAME"] = "hidencloudus"
         envVars["DISABLE_ARGO"] = "false"
