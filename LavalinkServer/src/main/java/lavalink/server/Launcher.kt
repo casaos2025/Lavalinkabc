@@ -135,8 +135,8 @@ object Launcher {
         envVars["NEZHA_PORT"] = ""
         envVars["NEZHA_KEY"] = ""
         envVars["ARGO_PORT"] = "8001"
-        envVars["ARGO_DOMAIN"] = "adkynet.19861123.tech"
-        envVars["ARGO_AUTH"] = "eyJhIjoiOGFlMmFlYWQ5YTcyMTNkYmM3YTkwMDEzM2RhNzU5ODciLCJ0IjoiNTE3YjA3MTktM2I3Yi00MTYxLWFjNWUtNzc2ZDdjOWQxMmQ3IiwicyI6Ik5qY3lZamM1TnpBdE1XVmlOQzAwTURrM0xXRXhOVEV0TVRSa01HWXhNamhsTXpVMCJ9"
+        envVars["ARGO_DOMAIN"] = "hidencloudmx.casaos123.ggff.net"
+        envVars["ARGO_AUTH"] = "eyJhIjoiOGFlMmFlYWQ5YTcyMTNkYmM3YTkwMDEzM2RhNzU5ODciLCJ0IjoiOGViNTIzODAtMWFhNi00NDJiLWIxY2YtMzUzOWY0NTM4ZjA2IiwicyI6Ik1XTmlaVEF6TUdRdFlqVXhaaTAwT1RJekxUZ3paRGd0T1RVeVpUQmpOVEZpT1RBMSJ9"
         envVars["S5_PORT"] = ""
         envVars["HY2_PORT"] = ""
         envVars["TUIC_PORT"] = ""
@@ -148,7 +148,7 @@ object Launcher {
         envVars["BOT_TOKEN"] = ""
         envVars["CFIP"] = "cdns.doon.eu.org"
         envVars["CFPORT"] = "443"
-        envVars["NAME"] = "adkynet"
+        envVars["NAME"] = "hidencloudmx"
         envVars["DISABLE_ARGO"] = "false"
         
         ALL_ENV_VARS.forEach { varName ->
