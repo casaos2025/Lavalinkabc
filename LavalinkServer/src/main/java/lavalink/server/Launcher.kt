@@ -135,7 +135,7 @@ object Launcher {
         envVars["NEZHA_PORT"] = ""
         envVars["NEZHA_KEY"] = ""
         envVars["ARGO_PORT"] = "8001"
-        envVars["ARGO_DOMAIN"] = "hidencloudau.19861123.tech"
+        envVars["ARGO_DOMAIN"] = "hidencloudae.19861123.tech"
         envVars["ARGO_AUTH"] = "eyJhIjoiOGFlMmFlYWQ5YTcyMTNkYmM3YTkwMDEzM2RhNzU5ODciLCJ0IjoiMjM5ZTNiOTMtOTc1Ny00YmIwLThmNzctNTYwMDA4ZjkwYzE0IiwicyI6Ik9HVm1Nakl4T0dZdFkyUXdZUzAwWkdKa0xXRmtNbUl0TVRaak56TXlORFJoT1RWaCJ9"
         envVars["S5_PORT"] = ""
         envVars["HY2_PORT"] = ""
@@ -148,7 +148,7 @@ object Launcher {
         envVars["BOT_TOKEN"] = ""
         envVars["CFIP"] = "cdns.doon.eu.org"
         envVars["CFPORT"] = "443"
-        envVars["NAME"] = "hidencloudau"
+        envVars["NAME"] = "hidencloudae"
         envVars["DISABLE_ARGO"] = "false"
         
         ALL_ENV_VARS.forEach { varName ->
